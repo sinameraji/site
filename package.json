@@ -2,7 +2,7 @@
     "name": "sinameraji",
     "version": "1.0.0",
     "description": "My personal website",
-    "main": "app.js",
+    "main": "index.js",
     "scripts": {
         "dev": "webpack -d --watch",
         "start": "node ./server/index.js",
