@@ -6,16 +6,16 @@ class NavBar extends Component {
       return (
         <header>
           <h1>SinaLab</h1>
-          <h4>this is my last year's new year resolution. it was long overdue</h4>
+          <h4>this was one my new year resolutions last year, kinda overdue.</h4>
           <nav>
             <input type="checkbox" id="nav" class="hidden"/>
-            <label for="nav" class="nav-open"><i></i><i></i><i></i></label>
+            <label for="nav" class="nav-open"><i></i></label>
             <div class="nav-container">
               <ul>
-                <li><a href="#">Home</a></li>
-                <li><a href="#">Book collection</a></li>
-                <li><a href="#">Blog</a></li>
-                <li><a href="#">Github</a></li>
+                <li><Link to="/">Home</Link></li>
+                <li><Link to="#">Book collection</Link></li>
+                <li><Link to="#">Blog</Link></li>
+                <li><Link to="#">Github</Link></li>
               </ul>
             </div>
           </nav>

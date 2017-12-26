@@ -9,7 +9,7 @@ body {
   box-sizing: border-box;
 }
 nav {
-  padding: 30px;
+  padding: 10px;
 }
 nav ul {
   /* float: right; */
@@ -31,7 +31,7 @@ nav ul li a {
   letter-spacing: 0.04em;
 }
 nav ul li a:hover {
-  color: #808080;
+  color: #b326b8;
   text-decoration: none;
 }
 @media screen and (max-width: 560px) {
