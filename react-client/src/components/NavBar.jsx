@@ -12,10 +12,10 @@ class NavBar extends Component {
             <label for="nav" class="nav-open"><i></i><i></i><i></i></label>
             <div class="nav-container">
               <ul>
-                <li><a href="#">Work</a></li>
-                <li><a href="#">About</a></li>
-                <li><a href="#">Careers</a></li>
-                <li><a href="#">Contact</a></li>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Book collection</a></li>
+                <li><a href="#">Blog</a></li>
+                <li><a href="#">Github</a></li>
               </ul>
             </div>
           </nav>
