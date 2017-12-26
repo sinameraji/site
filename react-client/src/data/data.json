@@ -1,0 +1,27 @@
+{
+  "books": [{
+      "title": "Joli",
+      "image": "./icons/joli.png",
+      "link": "https://www.messenger.com/t/Askjoliholi",
+      "author": "view"
+    },
+    
+  ]
+},
+"Singapore": {
+  "icon": "#",
+  "bots": [{
+      "name": "Gov.sg",
+      "icon": "./icons/govsg.png",
+      "link": "https://www.messenger.com/t/gov.sg",
+      "type": ""
+    },
+    {
+      "name": "Uncle Bus",
+      "icon": "./icons/uncleBus.png",
+      "link": "https://www.messenger.com/t/sgbusuncle",
+      "type": ""
+    }
+  ]
+}
+}

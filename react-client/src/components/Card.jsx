@@ -7,9 +7,10 @@ export default class Card extends Component {
                 <div class="card">
                 <div class="card__image card__image--fence"></div>
                 <div class="card__content">
-                    <div class="card__title">Flex</div>
+                    <div class="card__title">Getting to Yes</div>
+                    <div class="card__desc">harvard law</div>
                     <p class="card__text">This is the shorthand for flex-grow, flex-shrink and flex-basis combined. The second and third parameters (flex-shrink and flex-basis) are optional. Default is 0 1 auto. </p>
-                    <button class="btn btn--block card__btn">Button</button>
+                    {/* <button class="btn btn--block card__btn">Button</button> */}
                 </div>
                 </div>
             </li>

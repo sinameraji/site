@@ -5,6 +5,17 @@ body {
   /* text-transform: uppercase; */
   text-align: center;
 }
+h1 {
+  font-family: "Anonymous Pro";
+  font-weight: 200;
+  color: #333;
+  font-size: 3rem;
+}
+h2 {
+  font-family: "Anonymous Pro";
+  font-weight: 900;
+  font-size: 2rem;
+}
 * {
   box-sizing: border-box;
 }
@@ -281,6 +292,14 @@ img {
   font-size: 1.25rem;
   font-weight: 300;
   letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.card__desc {
+  color: #696969;
+  margin-top: 1.25rem;
+  font-size: 0.8rem;
+  font-weight: 300;
+  letter-spacing: 4px;
   text-transform: uppercase;
 }
 .card__text {
