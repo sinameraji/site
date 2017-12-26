@@ -2,7 +2,7 @@ body {
   font-family: "Anonymous Pro";
   font-weight: 400;
   font-size: 13px;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   text-align: center;
 }
 * {

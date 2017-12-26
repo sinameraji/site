@@ -6,7 +6,7 @@ class NavBar extends Component {
       return (
         <header>
           <h1>SinaLab</h1>
-        
+          <h4>this is my last year's new year resolution. it was long overdue</h4>
           <nav>
             <input type="checkbox" id="nav" class="hidden"/>
             <label for="nav" class="nav-open"><i></i><i></i><i></i></label>
