@@ -5,11 +5,10 @@ import Header from './Header'
 import NavBar from './NavBar'
 import Footer from './Footer'
 import Cards from './Cards'
-const data = require('../data/data.json')
+
 
 class App extends Component {
   render() {
-    console.log(data.books)
       return (
         <Router>
           <div>
