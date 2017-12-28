@@ -13,7 +13,7 @@ export default class SideProject extends Component {
                     <div class="card__title">{this.props.name}</div>
                     <div class="card__desc">{this.props.type}</div>
                     <p class="card__text">{this.props.desc}</p>
-                    <a href="#" class="btn btn--block card__btn">Visit</a>
+                    <a href={this.props.link} class="btn btn--block card__btn">Visit</a>
                     {/* <button class="btn btn--block card__btn">Visit</button> */}
                 </div>
                 </div>
