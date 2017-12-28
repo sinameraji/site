@@ -3,14 +3,12 @@ import React, { Component } from 'react'
 export default class Card extends Component {
     render(){
         let styles = {
-            root: {
-               backgroundImage: `url(${ this.props.img })`
-          }
+            backgroundImage: 'url(' + this.props.img + ')'
         }
         return (
             <li class="cards__item">
                 <div class="card">
-                <div class="card__image card__image--fence" style={styles}></div>
+                <div class="card__image" style={styles}></div>
                 <div class="card__content">
                     <div class="card__title">{this.props.title}</div>
                     <div class="card__desc">{this.props.author}</div>
