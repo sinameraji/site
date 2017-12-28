@@ -15,6 +15,7 @@ class App extends Component {
             <NavBar />
             <hr/>
             <Route name="home" exact path="/" component={Header} />
+            <h2>My bookshelf</h2>
             <Cards />
             <hr/>
             <Footer />

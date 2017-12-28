@@ -16,7 +16,6 @@ class NavBar extends Component {
                 <li><Link to="https://www.facebook.com/AppClubUM/">App Club</Link></li>
                 <li><Link to="http://medium.com/@sinameraji">Blog</Link></li>
                 <li><Link to="https://github.com/sinameraji/">GitHub</Link></li>
-                <li><Link to="https://www.linkedin.com/in/sinameraji/">Linkedin</Link></li>
               </ul>
             </div>
           </nav>

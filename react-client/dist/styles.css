@@ -5,6 +5,18 @@ body {
   /* text-transform: uppercase; */
   text-align: center;
 }
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+ul {
+  /* margin-bottom: 4rem; */
+}
+
+.solution li {
+  list-style-position: inside;
+}
 h1 {
   font-family: "Anonymous Pro";
   font-weight: 200;
