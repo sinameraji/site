@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-export default class Card extends Component {
+export default class Book extends Component {
     render(){
         let styles = {
             backgroundImage: 'url(' + this.props.img + ')'

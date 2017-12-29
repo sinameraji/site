@@ -12,7 +12,7 @@ class NavBar extends Component {
             <div class="nav-container">
               <ul>
                 <li><a href="/">Home</a></li>
-                <li><a href="https://www.facebook.com/AppClubUM/">App Club</a></li>
+                <li><a href="https://www.facebook.com/AppClubUM/">App Club😍</a></li>
                 <li><a href="http://medium.com/@sinameraji">Blog</a></li>
                 <li><a href="https://github.com/sinameraji/">GitHub</a></li>
               </ul>

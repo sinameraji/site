@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
-import Card from './Card'
+import Book from './Book'
 
-export default class Cards extends Component {
+export default class Books extends Component {
     
     render(){
         let books = [
@@ -15,7 +15,7 @@ export default class Cards extends Component {
                 })} */}
                 <Card title="Getting to Yes" author="Harvard Law School" desc="Became conscious about perspective in negotiations, in social and political scale." img={require('../images/yes.jpg')} />
                 <Card title="Matchmakers" author="Harvard Business Review" desc="This book organised my unstructured thoughts about education, technology and businesses. Enjoyed the case studies." img={require('../images/matchmaker.jpg')} />
-                <Card title="Limits: concept, definition and calculation" author="Muhammad Reza Hashemi Mousavi" desc="My high school advanced calculus teacher advised me to fully understand the concept of limit in maths, to truly understand maths. One of the most beautiful concepts I've learned in life, with no doubt." img={require('../images/limit.jpg')} />
+                <Card title="Limit: concept, definition and calculation" author="Muhammad Reza Hashemi Mousavi" desc="My high school advanced calculus teacher advised me to fully understand the concept of limit in maths, to truly understand maths. One of the most beautiful concepts I've learned in life, with no doubt." img={require('../images/limit.jpg')} />
                 <Card title="Organize your mind, organize your life" author="Margaret Moore and Paul Hammerness" desc="This book organised my unstructured thoughts about education, technology and businesses. Enjoyed the case studies." img={require('../images/mind.jpg')} />
                 <Card title="AI - A Guide to Intelligent Systems" author="Michael Negnevitsky" desc="Gave me a great understanding of logic and inference in machines, knowledge representation and reasoning." img={require('../images/ai.jpg')} />
                 <Card title="Everybody matters" author="Rajendra Sisodia and Robert Chapman" desc="Pre-word by Simon Sinek. True story of Bob Chapman's empathy-driven leadership in building his billion dollar company." img={require('../images/chapman.jpg')} />
