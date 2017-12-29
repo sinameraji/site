@@ -4,7 +4,7 @@ class NavBar extends Component {
     render() {
       return (
         <header>
-          <h1>SinaLab</h1>
+          <a id ="sina" href="/"><h1>SinaLab</h1></a>
           <div class="card-container"><h4>Artificial intelligence undergrad at University of Malaya, <br/> with a <i>side passion</i> for building and testing little blocks of human lifestyle.</h4></div>
           <nav>
             <input type="checkbox" id="nav" class="hidden"/>
