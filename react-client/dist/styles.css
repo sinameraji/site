@@ -419,6 +419,23 @@ img {
   font-size: 15pt;
 }
 
+.harambe {
+  margin: 0 auto;
+  border: solid .8em black;
+  border-image: linear-gradient(#8300da 17.5%, #a741e2 17.5%, #a833c5 35%, #e44df2 35%, #f776fc 52.5%, #f3de68 52.5%, #ffd971 70%, #ffc064 70%, #ffc064 87.5%, #ffc401 87.5%) 5 5;
+  width: 12em;
+  height: 12em;
+}
+
+/* .harambe{
+  height:12em;
+  width:12em;
+  margin: 0 auto;
+  border:30px solid transparent;
+  border-image: url(https://www.w3schools.com/css/border.png) 40 40 round;
+} */
+/* not supported in ie 10 and earlier browser */
+
 #card p {
   font-family: courier;
   color: #555;
