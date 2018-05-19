@@ -5,6 +5,7 @@ import Header from './Header'
 import NavBar from './NavBar'
 import Footer from './Footer'
 import Books from './Books'
+import Posts from './Posts'
 import SideProjects from './SideProjects'
 
 class App extends Component {
@@ -15,6 +16,8 @@ class App extends Component {
             <NavBar />
             <hr/>
             <Route name="home" exact path="/" component={Header} />
+            {/* <h2>Featured articles</h2>
+            <Posts /> */}
             <h2>My bookshelf</h2>
             <Books />
             <h2>Creations</h2>

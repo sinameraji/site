@@ -16,7 +16,15 @@ ul {
 
 .solution li {
   list-style-position: inside;
+  margin-bottom: 10px;
+  font-size: 13px;
 }
+
+.solution li:hover {
+  color: #b326b8;
+  text-decoration: none;
+}
+
 h1 {
   font-family: "Anonymous Pro";
   font-weight: 200;
@@ -220,6 +228,7 @@ img {
   display: block;
   width: 100%;
 }
+
 .cards {
   display: -webkit-box;
   display: -ms-flexbox;
