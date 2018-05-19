@@ -14,8 +14,9 @@ export default class Books extends Component {
                     <Book title={book.title} author={book.author} desc={book.desc} img={book.img} />
                 })} */}
                 
-                <Book title="Zero to One" author="Peter Thiel" desc="It aligned with my thoughts about the concept of competition in individual and social context, labeled people like me as Definite Optimists!" img={require('../images/zero-to-one.jpg')} />
+                <Book title="Zero to One" author="Peter Thiel" desc="It aligned with my thoughts about the concept of competition in individual and social context, labeled people like me as Definite Optimists! It was so good I read about 40 pages a day despite my hectic schedule." img={require('../images/zero-to-one.jpg')} />
                 <Book title="Solving Tough Problems" author="Adam Kahane" desc="Loved this book. A great read on transitioning from solving science problems to solving real world problems. Gave me the courage to be more open about my pursuit of leadership and tackling the education problem." img={require('../images/solving-tough-problems.jpg')} />
+                <Book title="Misbehaving" author="Richard Thaler" desc="This year (2018) I found a deep interest in 2 things: Economics and understanding/influencing human behavior. This book was quite interesting, I read half of it." img={require('../images/solving-tough-problems.jpg')} />
                 <Book title="Getting to Yes" author="Roger Fisher and William Ury" desc="Became conscious about perspective in negotiations, in social and political scale." img={require('../images/yes.jpg')} />
                 <Book title="Matchmakers" author="David. Evans and Richard L. Schmalensee" desc="This book organised my unstructured thoughts about education, technology and businesses. Enjoyed the case studies." img={require('../images/matchmaker.jpg')} />
                 <Book title="Limit" author="Muhammad Reza Hashemi Mousavi" desc="Limit shapes a huge part of mathematics and it's a concept I've repeatedly fell in love with, thanks to my amazing high school calculus teacher." img={require('../images/limit.jpg')} />
