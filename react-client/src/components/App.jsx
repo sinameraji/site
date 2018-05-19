@@ -17,7 +17,7 @@ class App extends Component {
             <Route name="home" exact path="/" component={Header} />
             <h2>My bookshelf</h2>
             <Books />
-            <h2>Side projects</h2>
+            <h2>Creations</h2>
             <SideProjects />
             <hr/>
             <Footer />

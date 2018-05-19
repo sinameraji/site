@@ -5,7 +5,7 @@ class NavBar extends Component {
       return (
         <header>
           <div class="harambe">
-            <img src={ require('../images/sinalab.jpg') } height="20em"/>
+            <img src={ require('../images/sina.jpg') } height="20em"/>
           </div>
           <a id ="sina" href="/"><h1>SinaLab</h1></a>
           <div class="card-container"><h4>Artificial intelligence undergrad at University of Malaya, <br/> with a <i>side passion</i> for building and testing little blocks of human lifestyle.</h4></div>
