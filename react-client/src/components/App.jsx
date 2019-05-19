@@ -14,15 +14,14 @@ class App extends Component {
         <Router>
           <div>
             <NavBar />
-            <hr/>
+            {/* <hr/> */}
             <Route name="home" exact path="/" component={Header} />
-            {/* <h2>Featured articles</h2>
-            <Posts /> */}
-            <h2>My bookshelf</h2>
+            
+            {/* <h2>My bookshelf</h2>
             <Books />
             <h2>Creations</h2>
             <SideProjects />
-            <hr/>
+            <hr/> */}
             <Footer />
           </div>
         </Router>
