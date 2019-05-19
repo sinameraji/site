@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import { BrowserRouter as Router, Route, Link} from 'react-router-dom'
 import Books from './Books';
 import Library from './Library';
+import Header from './Header';
 
 class NavBar extends Component {
     render() {
