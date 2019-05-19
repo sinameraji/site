@@ -8,7 +8,7 @@ class NavBar extends Component {
             <img src={ require('../images/sina.jpg') } height="20em"/>
           </div>
           <a id ="sina" href="/"><h1>SinaLab</h1></a>
-          <div class="card-container"><h4>Artificial intelligence undergrad at University of Malaya, <br/> with a <i>side passion</i> for building and testing little blocks of human lifestyle.</h4></div>
+          <div class="card-container"><h4>Technical generalist, BSc. Computer Science (Major in Artificial Intelligence), and soon to be MSc. Data Science <br/> Passionate about craftsmanship, leadership, education and personalization.<br/> I have a <i>side passion</i> for building, testing and optimising little blocks of human lifestyle.</h4></div>
           <nav>
             <input type="checkbox" id="nav" class="hidden"/>
             <label for="nav" class="nav-open"><i></i></label>
