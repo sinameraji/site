@@ -5,13 +5,13 @@ export default class Books extends Component {
     
     render(){
         let books = [
-            {title: "Getting to Yes", author: "Harvard Law School", desc: "Became conscious about perspective in negotiations, in social and political scale.", img: require('../images/yes.jpg')},
-            {title: "Matchmaker", author: "Harvard Law School", desc: "Became conscious about perspective in negotiations, in social and political scale.", img: require('../images/matchmaker.jpg')},
+            // {title: "Getting to Yes", author: "Harvard Law School", desc: "Became conscious about perspective in negotiations, in social and political scale.", img: require('../images/yes.jpg')},
+            // {title: "Matchmaker", author: "Harvard Law School", desc: "Became conscious about perspective in negotiations, in social and political scale.", img: require('../images/matchmaker.jpg')},
         ]
-        Object.keys()
+        // Object.keys()
         return (
             <ul class="cards">
-                {books.map(b => <Book title={b.title} author={b.author} desc={b.desc} img={(b.img)} />)}
+                {/* {books.map(b => <Book title={b.title} author={b.author} desc={b.desc} img={(b.img)} />)} */}
                 <Book title="The Leadership Pipeline" author="Ram Charan" desc="Reading currently. I look forward to learn how to grow as a leader, while growing other leaders in the system. Building a solid leadership pipeline is crucial for teams, businesses and civilizations." img={require('../images/leadership-pipeline.jpg')} />
                 <Book title="Zero to One" author="Peter Thiel" desc="It aligned with my thoughts about the concept of competition in individual and social context, labeled people like me as Definite Optimists! It was so good I read about 40 pages a day despite my hectic schedule." img={require('../images/zero-to-one.jpg')} />
                 <Book title="Solving Tough Problems" author="Adam Kahane" desc="Loved this book. A great read on transitioning from solving science problems to solving real world problems. Gave me the courage to be more open about my pursuit of leadership and tackling the education problem." img={require('../images/solving-tough-problems.jpg')} />
