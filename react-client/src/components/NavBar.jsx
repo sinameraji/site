@@ -27,7 +27,6 @@ class NavBar extends Component {
                   {/* <li><a href="https://www.facebook.com/AppClubUM/">App Club😍</a></li> */}
                 </ul>
                 <Route path="/library/" component={Books} />
-                <Route name="home" exact path="/" component={Header} />
               </div>
             </nav>
           </header>
