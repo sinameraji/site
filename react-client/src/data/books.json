@@ -1,0 +1,98 @@
+{
+    "b1": {
+        "title": "Getting to Yes",
+        "author": "Harvard Law School",
+        "desc": "Became conscious about perspective in negotiations, in social and political scale.",
+        "img": "../images/yes.jpg"
+    },
+    "b2": {
+        "title": "The Leadership Pipeline",
+        "author": "Ram Charan",
+        "desc": "Reading currently. I look forward to learn how to grow as a leader, while growing other leaders in the system. Building a solid leadership pipeline is crucial for teams, businesses and civilizations.",
+        "img": "../images/leadership-pipeline.jpg"
+    },
+    "b3": {
+        "title": "Zero to One",
+        "author": "Peter Thiel",
+        "desc": "It aligned with my thoughts about the concept of competition in individual and social context, labeled people like me as Definite Optimists! It was so good I read about 40 pages a day despite my hectic schedule.",
+        "img": "../images/zero-to-one.jpg"
+    },
+    "b4": {
+        "title": "Solving Tough Problems",
+        "author": "Adam Kahane",
+        "desc": "Loved this book. A great read on transitioning from solving science problems to solving real world problems. Gave me the courage to be more open about my pursuit of leadership and tackling the education problem.",
+        "img": "../images/solving-tough-problems.jpg"
+    },
+    "b5": {
+        "title": "Misbehaving",
+        "author": "Roger Fisher and William Ury",
+        "desc": "This year (2018) I found a deep interest in 2 things: Economics and understanding/influencing human behavior. This book was quite interesting, I read half of it.",
+        "img": "../images/misbehaving.jpg"
+    },
+    "b6": {
+        "title": "Matchmakers",
+        "author": "David. Evans and Richard L. Schmalensee",
+        "desc": "This book organised my unstructured thoughts about education, technology and businesses. Enjoyed the case studies.",
+        "img": "../images/matchmaker.jpg"
+    },
+    "b7": {
+        "title": "Limit",
+        "author": "Muhammad Reza Hashemi Mousavi",
+        "desc": "Limit shapes a huge part of mathematics and it's a concept I've repeatedly fell in love with, thanks to my amazing high school calculus teacher.",
+        "img": "../images/limit.jpg"
+    },
+    "b8": {
+        "title": "Organize your mind, organize your life",
+        "author": "Margaret Moore and Paul Hammerness",
+        "desc": "A study of human brain from 2 perspectives: neuroscience and psychology;  with respect to the core feelings that influence our behavior and productivity. Enabled me to be more productived, more in control of my feelings. ",
+        "img": "../images/mind.jpg"
+    },
+    "b9": {
+        "title": "AI - A Guide to Intelligent Systems",
+        "author": "Michael Negnevitsky",
+        "desc": "A study of human brain from 2 perspectives: neuroscience and psychology;  with respect to the core feelings that influence our behavior and productivity. Enabled me to be more productived, more in control of my feelings. ",
+        "img": "../images/ai.jpg"
+    },
+    "b10": {
+        "title": "Everybody matters",
+        "author": "Rajendra Sisodia and Robert Chapman",
+        "desc": "Pre-word by Simon Sinek. True story of Bob Chapman's empathy-driven leadership in building his billion dollar company.",
+        "img": "'../images/chapman.jpg'"
+    },
+    "b11": {
+        "title": "Rich dad poor dad",
+        "author": "Robert Kiyosaki and Sharon Lechter",
+        "desc": "I did not have a great understanding of personal finance before reading this. Made a difference in my lifestyle.",
+        "img": "../images/richdad.jpg"
+    },
+    "b12": {
+        "title": "Ali's Attraction and Repulsion",
+        "author": "Morteza Motahhari",
+        "desc": "A brilliant low profile leadership book. Defines justice, hypocrisy and leadership by addressing leadership's side effect of making friends and enemies.",
+        "img": "../images/ali.jpg"
+    },
+    "b13": {
+        "title": "The matter of bank and riba (usury)",
+        "author": "Morteza Motahhari",
+        "desc": "Transcript of an extraordinary socioeconomic argument on Islam's view on banking.",
+        "img": "../images/ali.jpg"
+    },
+    "b14": {
+        "title": "Ali's Attraction and Repulsion",
+        "author": "Morteza Motahhari",
+        "desc": "A brilliant low profile leadership book. Defines justice, hypocrisy and leadership by addressing leadership's side effect of making friends and enemies.",
+        "img": "../images/bank.jpg"
+    },
+    "b15": {
+        "title": "Computer Organization And Architecture",
+        "author": "William Stallings",
+        "desc": "Found a deep interest in computer hardware in my first year at uni. The idea of improving PC performance by fundamentally changing parts of the architecture is fascinating.",
+        "img": "../images/csa.jpg"
+    },
+    "b16": {
+        "title": "Thinking, fast and slow",
+        "author": "Daniel Kahneman",
+        "desc": "I liked it because it articulated my thoughts, and stopped reading it for the same reason.",
+        "img": "../images/thinking.jpg"
+    }
+}
