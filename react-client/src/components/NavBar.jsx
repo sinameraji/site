@@ -18,14 +18,15 @@ class NavBar extends Component {
               <label for="nav" class="nav-open"><i></i></label>
               <div class="nav-container">
                 <ul>
-                  <li><a href="/">Home</a></li>
+                  <li><Link to="/">Home></Link></li>
                   <li><Link to="/library">Library</Link></li>
                   <li><a href="http://medium.com/@sinameraji">Blog</a></li>
                   <li><a href="#">Side projects</a></li>
                   <li><a href="https://github.com/sinameraji/">GitHub</a></li>
                   {/* <li><a href="https://www.facebook.com/AppClubUM/">App Club😍</a></li> */}
                 </ul>
-                <Route path="/library/" component={Library} />
+                <Route path="/library/" component={Books} />
+                <Route name="home" exact path="/" component={Header} />
               </div>
             </nav>
           </header>
