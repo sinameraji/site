@@ -19,7 +19,7 @@ class NavBar extends Component {
               <label for="nav" class="nav-open"><i></i></label>
               <div class="nav-container">
                 <ul>
-                  <li><Link to="/">Home></Link></li>
+                  <li><Link to="/">Home</Link></li>
                   <li><Link to="/library">Library</Link></li>
                   <li><a href="http://medium.com/@sinameraji">Blog</a></li>
                   <li><a href="#">Side projects</a></li>

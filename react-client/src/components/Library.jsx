@@ -12,6 +12,7 @@ class Library extends Component {
           <div>
             <NavBar />
             <hr/>
+            <Route name="home" exact path="/" component={Header} />
             <h2>My bookshelf</h2>
             <Books />
             <Footer />
