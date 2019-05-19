@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { BrowserRouter as Router, Route, Link} from 'react-router-dom'
 import Books from './Books';
+import Library from './Library';
 
 class NavBar extends Component {
     render() {
@@ -24,7 +25,7 @@ class NavBar extends Component {
                   <li><a href="https://github.com/sinameraji/">GitHub</a></li>
                   {/* <li><a href="https://www.facebook.com/AppClubUM/">App Club😍</a></li> */}
                 </ul>
-                <Route path="/library/" component={Books} />
+                <Route path="/library/" component={Library} />
               </div>
             </nav>
           </header>
